@@ -12,4 +12,4 @@ The task is, given a 1-rai (1600 m^2) land in the shape of an arbitrary rectangl
 3. Develop a flexible model to decide the most appropriate ratio for water, rice, crops, and utility area.
 4. Explain how the model reflects the core philosophy of the "New Theory" in terms of both "Sustainability" and "Suitability".
 
-We, the researchers, hereby publish the source code of computational part, the final report and summary.\
+We, the researchers, hereby publish the source code of computational part, the final report and summary.
